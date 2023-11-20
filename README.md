@@ -4,6 +4,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 # Content
 Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
+Columns
 **Pregnancies: Number of times pregnant**
 
 **Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test**
@@ -20,4 +21,5 @@ Several constraints were placed on the selection of these instances from a large
 
 **Age: Age (years)**
 
-**Outcome: Class variable (0 or 1)**
+**Outcome: Class variable (0 or 1), Class Distribution: (class value 1 is interpreted as "tested positive for
+diabetes")** 
