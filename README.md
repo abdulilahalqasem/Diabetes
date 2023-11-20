@@ -24,3 +24,5 @@ Several constraints were placed on the selection of these instances from a large
 
 **Outcome: Class variable (0 or 1), Class Distribution: (class value 1 is interpreted as "tested positive for
 diabetes")** 
+
+**Kaggle Source:** https://www.kaggle.com/datasets/mathchi/diabetes-data-set
